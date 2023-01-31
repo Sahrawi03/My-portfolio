@@ -1,0 +1,128 @@
+.body{
+    background-color: rgb(83, 83, 83);
+    
+}
+.top-container{
+    background-color: rgb(182, 189, 190);
+    text-align: center;
+    
+
+}
+.aymen{
+    font-family: 'Lobster', cursive;
+    font-size: 90px;
+    margin-top: -600px;
+    color: aliceblue;
+}
+.middle-container{
+    background-color: rgb(182, 189, 190);
+    margin-top: 300px;
+    text-align: center;
+    padding-top: 100px;
+    
+}
+.bottom-container{
+    background-color: rgb(0, 0, 0);
+    color:whitesmoke ;
+    padding-top: 30px;
+    text-align: center;
+}
+.webdev{
+    font-size: 50px;
+    color: antiquewhite;
+
+}
+.bottom-cloud{
+    position: relative;
+    left: 350px;
+    margin-bottom: 550px;
+}
+.background{
+    position: static;
+    width: 1500px;
+    height: 800px;
+    margin-top: -5px;
+    
+}
+.paravideoeditor{
+    font-family: serif;
+    font-weight: lighter;
+    font-size: larger;
+    margin-right: 400px;
+    margin-left: 50px;
+    margin-bottom: 200px;
+
+}
+.videoeditor{
+    font-weight: bolder;
+    font-size: medium;
+    margin-right: 600px;
+    margin-top: -250px;
+    font-size: 40px;
+}
+.footer-link{
+    color: rgb(252, 252, 252);
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 700;
+}
+.email{
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid gray 2px;
+    color: aliceblue;
+    margin-top: 20px;
+}
+.selfdis{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.mypic{
+    margin-top: 20px;
+}
+.frontend{
+    margin-right: 850px;
+
+}
+.titlefront{
+    margin-top: -300px;
+    margin-right: 200px;
+    margin-left: 350px;
+    font-size: 40px;
+}
+.paragraphefrontend{
+    margin-left: 600px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+.skill{
+    margin-top: 250px;
+}
+.skill-row2{
+    text-align: right;
+    margin-right: 200px;
+}
+.footer-link1{
+    margin-right: 40px;
+
+}
+.footer-link2{
+    margin-right: 40px;
+}
+.videopr{
+    padding: 10px;
+    background-color: black;
+    border: gray solid 2px;
+    margin-right: 800px;
+    color: aliceblue;
+    margin-bottom: 70px;
+    margin-top: -200px;
+}
+.contact-me{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.skills{
+    padding-top: 30px;
+}
